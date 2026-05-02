@@ -1,2 +1,4 @@
 aiogram==2.25.2
+aiohttp==3.9.5
 psycopg2-binary==2.9.9
+
