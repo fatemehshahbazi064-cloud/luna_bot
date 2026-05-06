@@ -1,4 +1,7 @@
 aiogram==2.25.1
 aiohttp==3.8.6
+setuptools==68.0.0
+wheel==0.41.2
+pip==23.3.1
 setuptools
 wheel
